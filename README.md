@@ -25,6 +25,21 @@
 [![Shell](https://img.shields.io/badge/shell-bash-orange.svg)](https://www.gnu.org/software/bash/)
 
 
+## 🚀 Démarrage Rapide
+
+Pour démarrer l'outil RTSP-RTCP Analyzer, exécutez les commandes suivantes :
+
+```bash
+# Rendre le script d'installation exécutable
+chmod +x install.sh
+
+# Exécuter l'installation
+./install.sh
+
+# Démarrer l'outil
+./start.sh
+
+
 ## 📋 Table des Matières
 
 - [Aperçu](#aperçu)
